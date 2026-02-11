@@ -62,3 +62,6 @@ function add2(a: number, b: number): number {
 function aa(a: number, b: number): number {
     return a;
 }
+function bb(a: number, b: number): number {
+    return b;
+}

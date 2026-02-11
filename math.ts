@@ -55,6 +55,6 @@ function divide1(a: number, b: number): number {
 
 }
 
-function modulo(a: number, b: number): number {
-    return a % b;
+function add2(a: number, b: number): number {
+    return a + b;
 }

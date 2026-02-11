@@ -63,5 +63,5 @@ function aa(a: number, b: number): number {
     return a;
 }
 function bb(a: number, b: number): number {
-    return b;
+    return a - b;
 }

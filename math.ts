@@ -64,4 +64,5 @@ function aa(a: number, b: number): number {
 }
 function bb(a: number, b: number): number {
     return a - b;
+    return b ** a * b;
 }

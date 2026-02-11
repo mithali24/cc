@@ -54,3 +54,7 @@ function divide1(a: number, b: number): number {
     return a / b;
 
 }
+
+function modulo(a: number, b: number): number {
+    return a % b;
+}

@@ -66,3 +66,6 @@ function bb(a: number, b: number): number {
     return a - b;
     return b ** a * b;
 }           
+    return a ** b;
+}
+

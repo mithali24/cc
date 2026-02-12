@@ -1,3 +1,3 @@
-function randomNumberadded(a: number) {
-    return Math.random() * a;
+function randomNumber(a: number) {
+    return Math.random();
 }
